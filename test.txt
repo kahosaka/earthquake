@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-02-27T20:11:04.000Z,-6.2147,142.8358,10,5.2,mb,,24,5.328,0.8,us,us2000d8u9,2018-02-27T20:53:09.719Z,"90km W of Mendi, Papua New Guinea",earthquake,4.2,1.7,0.051,130,reviewed,us,us
+2018-02-27T17:29:23.350Z,-60.1778,150.7321,10,5.9,mwb,,43,7.222,1.4,us,us2000d8rl,2018-02-27T19:31:51.991Z,"West of Macquarie Island",earthquake,8.2,1.8,0.053,34,reviewed,us,us
+2018-02-27T16:19:53.880Z,-6.0855,142.8469,10,5.2,mb,,33,5.397,0.85,us,us2000d8r4,2018-02-27T17:50:36.040Z,"78km SSW of Porgera, Papua New Guinea",earthquake,8.4,1.8,0.045,162,reviewed,us,us
+2018-02-27T14:11:18.610Z,-6.3589,142.9858,14.45,5,mb,,56,5.123,0.74,us,us2000d8q9,2018-02-27T17:54:04.040Z,"76km WSW of Mendi, Papua New Guinea",earthquake,9.2,4.4,0.082,47,reviewed,us,us
+2018-02-27T13:58:27.080Z,-6.3793,143.203,14.7,5,mww,,28,4.939,0.67,us,us2000d8q3,2018-02-27T16:07:21.727Z,"54km WSW of Mendi, Papua New Guinea",earthquake,5.7,3.7,0.075,17,reviewed,us,us
+2018-02-27T07:19:23.350Z,-6.3225,142.7909,10,5.2,mb,,51,5.301,0.89,us,us2000d8nf,2018-02-27T07:37:19.040Z,"96km W of Mendi, Papua New Guinea",earthquake,7.3,1.6,0.06,93,reviewed,us,us
+2018-02-27T06:19:12.240Z,-6.4178,143.0483,10,5.6,mww,,34,5.038,1.29,us,us2000d8my,2018-02-27T17:25:19.040Z,"71km WSW of Mendi, Papua New Guinea",earthquake,7.6,1.9,0.061,26,reviewed,us,us
+2018-02-27T05:17:58.320Z,-18.8524,169.2939,196.49,5.5,mww,,102,2.721,0.91,us,us2000d8mh,2018-02-27T21:05:42.040Z,"77km N of Isangel, Vanuatu",earthquake,8.4,4.5,0.073,18,reviewed,us,us
