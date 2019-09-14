@@ -3,3 +3,9 @@ File processing a text of the earthquake activity around the world in 2017 and d
 
 # Credits
 Chapter 7 of Miller and Ranum text.
+
+#
+```
+$ python3 equakes_vis.py test.txt
+$ python3 equakes_vis.py earthquakes.txt
+```
