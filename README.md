@@ -1,3 +1,5 @@
-# earthquake
-File processing and data mining to discover and display patterns of earthquake activity around world (over 2017).
-Credits: Chapter 7 of Miller and Ranum text.
+# Earthquake Visualizer
+File processing a text of the earthquake activity around the world in 2017 and data mining to discover patterns of earthquake activity. The results are plotted on a world map.
+
+# Credits:
+Chapter 7 of Miller and Ranum text.
